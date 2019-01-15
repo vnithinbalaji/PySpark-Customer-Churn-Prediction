@@ -4,21 +4,13 @@ A marketing agency has many customers that use their service to produce ads for 
 The data is saved as customer_churn.csv. Here are the fields and their definitions:
  
   Name : Name of the latest contact at Company
-  
   Age: Customer Age
-  
   Total_Purchase: Total Ads Purchased
-  
   Account_Manager: Binary 0=No manager, 1= Account manager assigned
-  
   Years: Totaly Years as a customer
-  
   Num_sites: Number of websites that use the service.
-  
   Onboard_date: Date that the name of the latest contact was onboarded
-  
   Location: Client HQ Address
-  
   Company: Name of Client Company
 
 Now Let's start to analyse the problem

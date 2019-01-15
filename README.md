@@ -20,3 +20,6 @@ The data is saved as customer_churn.csv. Here are the fields and their definitio
   Location: Client HQ Address
   
   Company: Name of Client Company
+
+Now Let's start to analyse the problem
+

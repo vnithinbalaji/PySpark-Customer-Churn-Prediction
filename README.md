@@ -2,6 +2,7 @@
 A marketing agency has many customers that use their service to produce ads for the client/customer websites. They've noticed that they have quite a bit of churn in clients. They basically randomly assign account managers right now, but want you to create a machine learning model that will help predict which customers will churn (stop buying their service) so that they can correctly assign the customers most at risk to churn an account manager. Luckily they have some historical data, can you help them out? Create a classification algorithm that will help classify whether or not a customer churned. Then the company can test this against incoming data for future customers to predict which customers will churn and assign them an account manager.
 
 The data is saved as customer_churn.csv. Here are the fields and their definitions:
+ 
   Name : Name of the latest contact at Company
   Age: Customer Age
   Total_Purchase: Total Ads Purchased
